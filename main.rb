@@ -1,28 +1,22 @@
-arr = ["b", "a", "za", "z"]
-   
+# bubble sort
 def buble(arr)
-n_times = arr.length-1
-switch = true
-
-while switch
-    
-    switch= false
-    
-        n_times.times do |i|
+    n_times = arr.length-1
+    n_times.times do |i|
         if arr[i] > arr[i+1]
-
-        arr[i],arr[i+1] = arr[i+1],arr[i]
-        
-        switch = true
+            arr[i],arr[i+1] = arr[i+1],arr[i]
         end
     end
-    
-
-end
 print arr
-
 end
 
 
-buble(arr)
-
+# bubble_sort_by
+def bubble_sort_by(arr)
+    n_times = arr.length-1
+    n_times.times do |i|
+        if yield(arr[i], arr[i+1]) > 0
+            arr[i], arr[i+1] = arr[i+1], arr[i] 
+        end
+    end
+puts arr
+end
