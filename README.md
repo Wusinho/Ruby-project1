@@ -1,4 +1,4 @@
-# Capstone Project NTML & CSS
+# Ruby Project - Advanced Building BLocks - Bubble Sort
 
 This is the Ruby project #1, from the Microverse's main curriculum and aims to build two algorithms similar to the sorting method, without using those methods.
 
@@ -6,15 +6,31 @@ This is the Ruby project #1, from the Microverse's main curriculum and aims to b
 
 ## Built With
 
-- RUBY
-
-## Getting Started
-
-To get a local copy up and running follow these simple example steps.
+- Ruby
 
 ### Prerequisites
 
-- Live Server plugin for Visual Studio Code
+- Ruby
+
+- VS Code
+
+## Setup 
+
+- Install git
+
+- Open Terminal
+
+- Change directory to folder to download repository
+
+- Use cd <file-path>
+
+- Run git clone https://github.com/ozovalihasan/enumerable.git
+
+- Install Ruby
+
+- Run ruby main.rb
+
+- To make any change,
 
 
 ## Author
