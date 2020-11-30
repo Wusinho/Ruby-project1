@@ -1,10 +1,3 @@
-# frozen_string_literal: true
-
-# # frozen_string_literal: true
-
-# # bubble sort
-# p bubble_sort_by(["hello", "hey", "hi"]) { |left, right| left.length - right.length }
-
 def bubble_sort(arr)
   n_times = arr.length - 1
   switch = true
