@@ -16,17 +16,6 @@ To get a local copy up and running follow these simple example steps.
 
 - Live Server plugin for Visual Studio Code
 
-### Setup
-
-1- Clone the repository
-
-```
-https://github.com/realisticattorney/CapstoneProject.git
-```
-
-2- Open the folder on VS Code, right click the index.html file and click on "Open With Live Server".
-
-3- Everything should be running by now.
 
 ## Author
 
