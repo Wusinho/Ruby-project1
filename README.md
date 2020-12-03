@@ -24,7 +24,7 @@ This is the Ruby project #1, from the Microverse's main curriculum and aims to b
 
 - Use cd <file-path>
 
-- Run git clone https://github.com/ozovalihasan/enumerable.git
+- Run git clone https://github.com/Wusinho/Ruby-project1.git
 
 - Install Ruby
 
